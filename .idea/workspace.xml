@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dfdb5262-8222-4b08-9bfa-7bb513af26ab" name="Changes" comment="reg">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/postgresql_42_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InternetMagazine.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Additional/FileDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Additional/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Additional/UserStreams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Additional/exceptio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Additional/files.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Additional/generiki.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Additional/lambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Additional/solid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructures/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructures/linklis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chatGPTProject/Device.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chatGPTProject/Laptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chatGPTProject/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chatGPTProject/Mobile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chatGPTProject/Salesman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chatGPTProject/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jbdcapiPostgres/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sorts/SORTS.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2W7dDB2aUS5YtOHf6QT8NsMbl93" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/KarlB/Downloads/bcrypt-0.10.2.jar",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "shared-indexes"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="jbdcapiPostgres" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="GenericStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Additional.GenericStack" />
+      <module name="InternetMagazine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Additional.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jbdcapiPostgres.Main" />
+      <module name="InternetMagazine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jbdcapiPostgres.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultiThreadedDownloader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Additional.MultiThreadedDownloader" />
+      <module name="InternetMagazine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Additional.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exceptio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Additional.exceptio" />
+      <module name="InternetMagazine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Additional.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="files" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Additional.files" />
+      <module name="InternetMagazine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Additional.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.MultiThreadedDownloader" />
+        <item itemvalue="Application.GenericStack" />
+        <item itemvalue="Application.files" />
+        <item itemvalue="Application.exceptio" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dfdb5262-8222-4b08-9bfa-7bb513af26ab" name="Changes" comment="" />
+      <created>1696087431570</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696087431570</updated>
+      <workItem from="1698407097960" duration="657000" />
+      <workItem from="1698407798041" duration="1778000" />
+      <workItem from="1698410215630" duration="3429000" />
+      <workItem from="1698423780534" duration="3571000" />
+      <workItem from="1698477346845" duration="15654000" />
+    </task>
+    <task id="LOCAL-00001" summary="reg">
+      <created>1698407990862</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698407990862</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="reg" />
+    <option name="LAST_COMMIT_MESSAGE" value="reg" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
