@@ -3,13 +3,12 @@ package jbdcapiPostgres;
 import java.sql.*;
 import java.sql.Connection;
 import java.sql.Timestamp;
-
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.sql.SQLException;
 import java.text.ParseException;
-
 import java.util.Scanner;
+
 import org.mindrot.jbcrypt.BCrypt;
 
 public class Main {
@@ -21,7 +20,7 @@ public class Main {
     public static void main(String[] args) throws SQLException, ParseException {
         Scanner sc= new Scanner(System.in);
 
-        // login    password:
+    //  user:login    password:
         //1 loginim  parol
         //2 test1    passworr
         //3 user1    user1
